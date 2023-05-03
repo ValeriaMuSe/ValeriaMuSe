@@ -1,5 +1,4 @@
 - 👋🏻 Hi, I’m @ValeriaMuSe
-- ✨ I’m fan of reading and watching series
 - 🌱 I’m currently learning Frontend Development
 
 <!---
